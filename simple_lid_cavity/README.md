@@ -18,7 +18,7 @@ v = -\frac{\partial \psi}{\partial x}.
 }
 ```
 
-Meanwhile, the boundary is\
+Meanwhile, the boundary is
 <p align="center">
 <img src="https://www.cfd-online.com/W/images/a/a3/Ldc_geom.png" width="" height="" border=""/>
 </p>
